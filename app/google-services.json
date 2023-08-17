@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "195783090714",
+    "firebase_url": "https://webpedal-50f53-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "webpedal-50f53",
+    "storage_bucket": "webpedal-50f53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195783090714:android:1c7271de706d94a1ae27a3",
+        "android_client_info": {
+          "package_name": "com.jpender.pedal_connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195783090714-j2qd65p7jqtris8lbsemcj9m7uoipdut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuYy8oIlhyX9JA-T8BOcoZYRWZYV96YR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195783090714-j2qd65p7jqtris8lbsemcj9m7uoipdut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
